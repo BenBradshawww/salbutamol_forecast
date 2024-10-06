@@ -1,0 +1,11 @@
+# Ignore __pycache__
+__pycache__/
+
+# Ignore data
+df_csv.csv
+
+# Ignore virtual environment
+my_env
+
+# Ignore DS Store
+.DS_Store

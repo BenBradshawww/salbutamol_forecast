@@ -1,0 +1,12 @@
+statsmodels
+numpy
+plotly
+pandas
+tqdm
+matplotlib
+scipy
+prophet
+python-dateutil
+urllib3
+scikit-learn
+notebook
